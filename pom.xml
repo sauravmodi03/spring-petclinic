@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    
-  <!-- xmlns="http://maven.apache.org/POM/4.0.0" -->
-  <!-- xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" -->
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0" 
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" >
     
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.springframework.samples</groupId>
@@ -182,13 +180,14 @@
           </execution>
         </executions>
       </plugin>
-      <plugin>
+      <!--
+        <plugin>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <executions>
           <execution>
             <!-- Spring Boot Actuator displays build-related information
-              if a META-INF/build-info.properties file is present -->
+              if a META-INF/build-info.properties file is present --
             <goals>
               <goal>build-info</goal>
             </goals>
@@ -203,6 +202,7 @@
           </execution>
         </executions>
       </plugin>
+        -->
       <plugin>
         <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
