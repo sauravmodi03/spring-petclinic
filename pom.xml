@@ -179,15 +179,14 @@
             </goals>
           </execution>
         </executions>
-      </plugin>
-      <!--
+        </plugin>
         <plugin>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-maven-plugin</artifactId>
+       <!-- <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId> -->
         <executions>
           <execution>
             <!-- Spring Boot Actuator displays build-related information
-              if a META-INF/build-info.properties file is present --
+              if a META-INF/build-info.properties file is present -->
             <goals>
               <goal>build-info</goal>
             </goals>
@@ -202,7 +201,6 @@
           </execution>
         </executions>
       </plugin>
-        -->
       <plugin>
         <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
