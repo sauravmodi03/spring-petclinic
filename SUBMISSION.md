@@ -9,7 +9,7 @@ Embedded URL's for all the screenshot.
 * ![Capture #3](https://github.com/sauravmodi03/spring-petclinic/blob/39975859bb4a1acb4ab13d66fc1075293c5eb9ca/images/3.png)
 * ![Capture #4](https://github.com/sauravmodi03/spring-petclinic/blob/39975859bb4a1acb4ab13d66fc1075293c5eb9ca/images/4.png)
 * ![Capture #5](https://github.com/sauravmodi03/spring-petclinic/blob/39975859bb4a1acb4ab13d66fc1075293c5eb9ca/images/5.png)
-* ![Capture #6](https://github.com/sauravmodi03/spring-petclinic/blob/39975859bb4a1acb4ab13d66fc1075293c5eb9ca/images/6.png)
+* ![Capture #6](https://github.com/sauravmodi03/spring-petclinic/blob/26fde6c6157afc038c539d946d6f571a7f65946a/images/6.png)
 * ![Capture #7](https://github.com/sauravmodi03/spring-petclinic/blob/39975859bb4a1acb4ab13d66fc1075293c5eb9ca/images/7.png)
 * ![Capture #8](https://github.com/sauravmodi03/spring-petclinic/blob/39975859bb4a1acb4ab13d66fc1075293c5eb9ca/images/8.png)
 * ![Capture #9](https://github.com/sauravmodi03/spring-petclinic/blob/39975859bb4a1acb4ab13d66fc1075293c5eb9ca/images/9.png)
